@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey que onda 👋, Yo soy Borgov</h1>
+<h1 align="center">Hey que onda 👋, Yo soy AymSchofield</h1>
 <h3 align="center">No es necesario recordar el valor, porque nunca se olvida.</h3>
 
 <img align="right" alt="GIF" height="410px" src="https://media.giphy.com/media/4uBAYNY2MaDmARmfQc/giphy.gif" />
@@ -23,17 +23,17 @@
 
 
 
-[![ borgov github estadisticas](https://github-readme-stats.vercel.app/api?username=KingBorgov&show_icons=true&hide_border=true&hide=issues)](https://github.com/KingBorgov)
+[![ borgov github estadisticas](https://github-readme-stats.vercel.app/api?username=AymSchofield&show_icons=true&hide_border=true&hide=issues)](https://github.com/AymSchofield)
 
 
-<whatsapp-button telefono="17066666666" dialcode="91" text="Hey there lets chat!" label="Start Chat"></whatsapp-button>
+<whatsapp-button telefono="50766666666" dialcode="91" text="Hey there lets chat!" label="Start Chat"></whatsapp-button>
 
 
 
 
 <p align="center">
-<a href="https://twitter.com/KingBorgov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="takahiroban" height="30" width="30" /></a>
+<a href="https://twitter.com/AymSchofield" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="takahiroban" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/14752386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14202014" height="30" width="30" /></a>
-<a href="https://fb.com/KingBorgov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ban takahiro" height="30" width="30" /></a>
+<a href="https://fb.com/AymSchofield" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ban takahiro" height="30" width="30" /></a>
 <a href="https://instagram.com/07.5.01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ban_takahiro_otaku" height="30" width="30" /></a>
 </p>
